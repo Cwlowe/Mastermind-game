@@ -6,10 +6,25 @@ class mastermind(object):
         self.past = []
         self.turns = 0
         self.answer =[]
-        self.
+        self.guess = []
+
+    def instructions(self):
+        pass
 
     def print_board(self):
         pass
 
-    def
+    def check_solutions(self):
+        pass
+
+    def inc_turn(self):
+        pass
+
+game = mastermind()
+
+#after 20 turns
+while(20 == game.turns):
+    pass
+
+
 
